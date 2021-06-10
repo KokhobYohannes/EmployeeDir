@@ -14,6 +14,8 @@ The user should be able to:
 
 To run the app, a user will click on the deployed link below and the list of 100 randomly generated employee records will download. Next, a user can search, filter and sort the employee records as needed. 
 
+#Technology used: HTML, CSS, JS, React
+
 ## Deployed Link:  https://kokhobyohannes.github.io/EmployeeDir/
 
 ## Repository: https://github.com/KokhobYohannes/EmployeeDir
