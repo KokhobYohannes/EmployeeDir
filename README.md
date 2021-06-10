@@ -1,4 +1,4 @@
-# EmployeeDir
+# Employee Directory
 
 ## User Story
 
